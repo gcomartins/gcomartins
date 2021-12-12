@@ -1,10 +1,5 @@
 <h1>Olá! Eu sou o Guilherme Carneiro!</h1>
 
-
-- 🔭 Atualmente estou estagiando e no segundo semestre da Análise e Desenvolvimento de Sistemas pela SPTech
-- 🌱 Estudando Javascript
-- 😄 Pronomes: ele/dele
-
 <div align="center">
   <a href="https://github.com/gcomartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcomartins&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
