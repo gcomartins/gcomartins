@@ -97,8 +97,8 @@ I'm always open to new opportunities and collaborations:
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-carneiro)
-  [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.carneiro@example.com)
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcomartins/)
+  [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcomartins@gmail.com)
   
   *"Great mobile apps are born from the perfect blend of technical excellence and strategic vision"*
   
